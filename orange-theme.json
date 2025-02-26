@@ -1,6 +1,22 @@
 {
     "name": "Ooorange",
+    "is_dark": true,
     "colors": {
-        "primary-color": "#fc7f03"
+        "accent-color": "#fc7f03",
+        "primary-color": "##948d81",
+        "warning-color": "#f9c003",
+        "sidebar-color": "#5c5750",
+        "roomlist-background-color": "#3d3a35",
+        "roomlist-text-color": "##6ccbc",
+        "roomlist-text-secondary-color": "#ffe8b3",
+        "roomlist-highlights-color": "#dea112",
+        "roomlist-separator-color": "#4c4c4c",
+        "timeline-background-color": "#000000",
+        "timeline-text-color": "#e5e5e5",
+        "secondary-content": "#da75ff",
+        "tertiary-content": "#e5e5e5",
+        "timeline-text-secondary-color": "#b2b2b2",
+        "timeline-highlights-color": "#212121",
+        "reaction-row-button-selected-bg-color": "#cc7b19"
     }
 }
